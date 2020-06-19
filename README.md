@@ -3,7 +3,9 @@
 ## Technologies
 Project is created with:
 Java Swing
+
 SQL Server Database
+
 Netbeans IDE 8.2
 
 ## Screenshots
